@@ -20,7 +20,7 @@ public class Array {
         //System.out.println("Posicion 1: " + names[1]);
         
         for(int i=0; i<names.length; i++){
-         System.out.println("Posicion "+ i +" es: " + names[1]);   
+         System.out.println("Posicion "+ i +" es: " + names[i]);   
         }
     }
 }

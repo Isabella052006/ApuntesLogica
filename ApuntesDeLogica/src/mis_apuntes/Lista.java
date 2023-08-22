@@ -29,7 +29,7 @@ public class Lista {
         }
         
     }
-            
+           /* i menor q 3 y j menor q 3*/
     
     
 }
